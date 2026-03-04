@@ -206,7 +206,7 @@ When I’m not coding, I’m **stargazing and dreaming about the cosmos**.
 - 📍 Location: **Chlef, Algeria**
 
 <details>
-  <summary>📱 Phone (from portfolio)</summary>
+  <summary>📱 Phone </summary>
 
   **+213 549 75 12 74**
 </details>
