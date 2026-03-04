@@ -45,7 +45,6 @@ When I’m not coding, I’m **stargazing and dreaming about the cosmos**.
 
 ## 🧰 Tech Stack (Full)
 
-> Your full list (kept), but grouped visually.
 
 **Languages**
   
